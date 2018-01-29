@@ -818,10 +818,10 @@ footer h2 {
     flex-direction: column;
   }
   .services-list {
-    width: 50%;
+    width: 45%;
   }
   .prices-list {
-    width: 15%;
+    width: 25%;
     padding-left: 5px
   }
 }
